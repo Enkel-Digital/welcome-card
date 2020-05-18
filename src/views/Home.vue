@@ -60,9 +60,11 @@
         </v-flex>
 
         <v-flex xs12>
-          <v-card elevation="0" max-width="400">
-            <v-parallax src="../assets/pic1.jpg" height="300"></v-parallax>
-          </v-card>
+          <v-parallax
+            src="../assets/pic1.jpg"
+            jumbrotron
+            data-aos="zoom-in-up"
+          ></v-parallax>
         </v-flex>
 
         <v-flex xs12>
@@ -115,9 +117,11 @@
         </v-flex>
 
         <v-flex xs12>
-          <v-card elevation="0" max-width="400">
-            <v-parallax src="../assets/pic2.jpg" height="300"></v-parallax>
-          </v-card>
+          <v-parallax
+            src="../assets/pic2.jpg"
+            jumbotron
+            data-aos="zoom-in-up"
+          ></v-parallax>
         </v-flex>
 
         <v-flex xs12>
@@ -156,6 +160,14 @@
         </v-flex>
 
         <v-flex xs12>
+          <v-parallax
+            src="../assets/pic3.jpg"
+            jumbrotron
+            data-aos="zoom-in-up"
+          ></v-parallax>
+        </v-flex>
+
+        <v-flex xs12>
           <v-card elevation="0" max-width="400" data-aos="zoom-out">
             <v-card-text>
               <p class="card-title">
@@ -188,6 +200,161 @@
             </v-card-text>
           </v-card>
         </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class="card-title">
+                valerie
+              </p>
+              <div class="card-font">
+                WELCOME ADDY TO TPA1 !! Glad to have you here with us and I hope
+                as time passes we’ll get to know each other better ! :>
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                dennis tan
+              </p>
+              <div class="card-font">
+                Hey Addy, just wanna say than I’m super excited to have you in
+                the life group!! Haha kinda known you for a long time since
+                ablaze days but back then, we rarely had the chance to know each
+                other. Maybe now would be an opportunity with you joining us
+                HAHA. Looking forward to journeying and doing life together!! -
+                Dennis
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                hao chen
+              </p>
+              <div class="card-font">
+                Yo Addy! Im Haochen! It's one of our LG's greatest joy to have u
+                as one of our members! HOORAY! I really excited to know more
+                about u and see friendship being forged between us! 😂 A WARM
+                WELCOME TO TPA1! Dennis
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-parallax
+            src="../assets/pic4.jpg"
+            jumbrotron
+            data-aos="zoom-in-up"
+          ></v-parallax>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                david
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class="card-title">
+                darius
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                kaelyn
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-parallax
+            src="../assets/pic5.jpg"
+            jumbrotron
+            data-aos="zoom-in-up"
+          ></v-parallax>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                dennis chua
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                marshyll
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class="card-title">
+                sandy
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                jessica
+              </p>
+              <div class="card-font">
+                text
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
       </v-layout>
     </v-container>
   </div>
@@ -196,26 +363,7 @@
 <script>
 // @ is an alias to /src
 
-export default {
-  computed: {
-    messages() {
-      return [
-        {
-          id: 0,
-          name: "joey",
-          message:
-            "WELCOME ADDY!! Huehue Glad to hear that you’re coming into our LG! #worshipleader HAHA jokes aside but yes aside from gettin to know you through the hopekids band, really wanna know you more as the opportunity is presented !! Looking forward to have u in our LG and gettin to know you more !! Can be rather scary to transfer to a new campus and new environment but yass we are here for u too!! -Joey",
-        },
-        {
-          id: 1,
-          name: "joey",
-          message:
-            "WELCOME ADDY!! Huehue Glad to hear that you’re coming into our LG! #worshipleader HAHA jokes aside but yes aside from gettin to know you through the hopekids band, really wanna know you more as the opportunity is presented !! Looking forward to have u in our LG and gettin to know you more !! Can be rather scary to transfer to a new campus and new environment but yass we are here for u too!! -Joey",
-        },
-      ];
-    },
-  },
-};
+export default {};
 </script>
 
 <style scoped>
@@ -235,7 +383,7 @@ export default {
   font-size: 30px;
 }
 .parallax {
+  transform: none !important;
   width: 100% !important;
-  /* height: 100% !important; */
 }
 </style>
