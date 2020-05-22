@@ -160,6 +160,24 @@
         </v-flex>
 
         <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title">
+                dennis tan
+              </p>
+              <div class="card-font">
+                Hey Addy, just wanna say than I’m super excited to have you in
+                the life group!! Haha kinda known you for a long time since
+                ablaze days but back then, we rarely had the chance to know each
+                other. Maybe now would be an opportunity with you joining us
+                HAHA. Looking forward to journeying and doing life together!! -
+                Dennis
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
           <v-parallax
             src="../assets/pic3.jpg"
             jumbrotron
@@ -219,31 +237,13 @@
           <v-card elevation="0" max-width="400" data-aos="zoom-out">
             <v-card-text>
               <p class=" card-title">
-                dennis tan
-              </p>
-              <div class="card-font">
-                Hey Addy, just wanna say than I’m super excited to have you in
-                the life group!! Haha kinda known you for a long time since
-                ablaze days but back then, we rarely had the chance to know each
-                other. Maybe now would be an opportunity with you joining us
-                HAHA. Looking forward to journeying and doing life together!! -
-                Dennis
-              </div>
-            </v-card-text>
-          </v-card>
-        </v-flex>
-
-        <v-flex xs12>
-          <v-card elevation="0" max-width="400" data-aos="zoom-out">
-            <v-card-text>
-              <p class=" card-title">
                 hao chen
               </p>
               <div class="card-font">
                 Yo Addy! Im Haochen! It's one of our LG's greatest joy to have u
                 as one of our members! HOORAY! I really excited to know more
                 about u and see friendship being forged between us! 😂 A WARM
-                WELCOME TO TPA1! Dennis
+                WELCOME TO TPA1!
               </div>
             </v-card-text>
           </v-card>
@@ -264,7 +264,8 @@
                 david
               </p>
               <div class="card-font">
-                text
+                Hey addy! Welcome to tpa1! Hope to know you more in the
+                lifegroup! :D
               </div>
             </v-card-text>
           </v-card>
@@ -277,13 +278,37 @@
                 darius
               </p>
               <div class="card-font">
-                text
+                Hi Addy! It’s your boi darius here and just wanna welcome you to
+                this Lifegroup! HAHA Gonna keep it short so that next time, once
+                I know you, it will be longer HAHAH. But yeah! Am really excited
+                for it :)) From, Darius
               </div>
             </v-card-text>
           </v-card>
         </v-flex>
 
         <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class="card-title">
+                sandy
+              </p>
+              <div class="card-font">
+                Hello Addy! Honestly super excited to have you over and cannot
+                wait to see what God has planned for you and the LG too! Like I
+                said in the messages, you are in good hands! Never thought in
+                ever that the person that I serve with on camp stages and in the
+                latest mission trip would be the person that will be coming to
+                my LG! I still remember when we first met like maybe 1-2 years
+                ago? Indeed God has crazy plans and I’m glad to have you on this
+                ride with me! Rest assured if you stress, we cry together ok
+                HAHHA but yes doing this with you! WELCOME ADDY!
+              </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <!-- <v-flex xs12>
           <v-card elevation="0" max-width="400" data-aos="zoom-out">
             <v-card-text>
               <p class=" card-title">
@@ -294,7 +319,7 @@
               </div>
             </v-card-text>
           </v-card>
-        </v-flex>
+        </v-flex> -->
 
         <v-flex xs12>
           <v-parallax
@@ -311,7 +336,12 @@
                 dennis chua
               </p>
               <div class="card-font">
-                text
+                welcome to TP, addy! thank you for stepping out of your comfort
+                zone to come join us here! thank you for choosing to serve here
+                in TP despite you serving the nation as well. looking forward to
+                getting to know you more & serving with you! am sure that you'll
+                be able to experience more of God in your season here as well!
+                :)
               </div>
             </v-card-text>
           </v-card>
@@ -324,20 +354,15 @@
                 marshyll
               </p>
               <div class="card-font">
-                text
-              </div>
-            </v-card-text>
-          </v-card>
-        </v-flex>
-
-        <v-flex xs12>
-          <v-card elevation="0" max-width="400" data-aos="zoom-out">
-            <v-card-text>
-              <p class="card-title">
-                sandy
-              </p>
-              <div class="card-font">
-                text
+                Hello Addy!!!! This is Marsh. Marsh who? It’s ok don’t need to
+                know HAHA but I am Eminem’s sister KIDDIN”. Really glad to have
+                you joining our Lifegroup and super excited for what God has
+                installed for you in Temasek! Heard that you’re actually from
+                NYP and having to move from NYP to a foreign land and far is
+                really not easy but hey, God is still good and surely the
+                lifegroup will be here and know we all got your back ALWAYS!!!
+                Woohoo! Welcome Addy :D hope to know you better in time to come
+                ‼️ Exciting thangsSSSssSs
               </div>
             </v-card-text>
           </v-card>
@@ -350,8 +375,24 @@
                 jessica
               </p>
               <div class="card-font">
-                text
+                hi addy, welcome to TPA1!!! first of all, really encouraged to
+                see how to are willing to transfer to TP ministry eventho ure
+                not from TP and tht u are in ns already. i feel tht it is a very
+                hard and brave decision for u to make. as a fellow poly
+                graduate, i hope we can relate alot and rant to each other if
+                things get too hard hehe. the God in tp is the same God in any
+                ministry! rest assured as we will be going though life with
+                you!! once again, welcome to the LG!!! :> - jess
               </div>
+            </v-card-text>
+          </v-card>
+        </v-flex>
+
+        <v-flex xs12>
+          <v-card elevation="0" max-width="400" data-aos="zoom-out">
+            <v-card-text>
+              <p class=" card-title"></p>
+              <div class="card-font">nr</div>
             </v-card-text>
           </v-card>
         </v-flex>
